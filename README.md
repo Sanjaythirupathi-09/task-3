@@ -1,1 +1,2 @@
-# task-3
+# tast-3
+advanced features implementation! 
